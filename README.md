@@ -1,1 +1,1 @@
-# luck
+# pump.fun
